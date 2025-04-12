@@ -1,4 +1,4 @@
-# 🧠 AWS Knowledge Base
+# AWS Knowledge Base
 
 [![Study Strategy](https://img.shields.io/badge/strategy-active-blue?style=flat-square)](CERTIFICATION_GUIDES/STUDY_STRATEGY.md)
 
@@ -6,13 +6,13 @@ A curated, structured, and growing knowledge base of AWS services and architectu
 
 
 This project is built for:
-- 📚 Deepening your AWS understanding across core and advanced services
-- 🧭 Preparing for AWS certification exams (SAA, SAP, Dev, ML)
-- 🛠 Supporting real-world cloud engineering and design decisions
+- Deepening your AWS understanding across core and advanced services
+- Preparing for AWS certification exams (SAA, SAP, Dev, ML)
+- Supporting real-world cloud engineering and design decisions
 
 ---
 
-## 🧭 Study Strategy & Progress
+## Study Strategy & Progress
 
 - 📘 [Study Strategy](CERTIFICATION_GUIDES/STUDY_STRATEGY.md): How to learn and test at the same time
 - 🧪 [Test Review Log](CERTIFICATION_GUIDES/TEST_REVIEW.md): Missed questions and follow-ups
@@ -20,21 +20,22 @@ This project is built for:
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 aws-knowledge-base/
-├── security/
-├── compute/
-├── storage/
-├── networking/
-├── databases/
 ├── app-integration/
-├── infra/                # IaC, DevOps, CLI
-├── monitoring/
-├── data-analytics/
-├── ml/                   # ML-specific content
+├── compute/
 ├── concepts/             # Architecture, tradeoffs, patterns
+├── databases/
+├── data-analytics/
+├── identity-access
+├── infra/                # IaC, DevOps, CLI
+├── ml/                   # ML-specific content
+├── monitoring/
+├── networking/
+├── security/
+├── storage/
 └── CERTIFICATION_GUIDES/
     ├── README.md
     ├── SAA.md + CHECKLIST_SAA.md
@@ -46,7 +47,7 @@ aws-knowledge-base/
 
 ---
 
-## ✅ Available Topics
+## Available Topics
 
 Each `.md` file covers:
 
@@ -65,7 +66,7 @@ See the full topic list via:
 
 ---
 
-## 🧭 Certification Study Guides
+## Certification Study Guides
 
 These guides describe what each exam expects and how this repo supports your prep:
 
@@ -77,7 +78,7 @@ These guides describe what each exam expects and how this repo supports your pre
 
 ---
 
-## 🧱 Design Philosophy
+## Design Philosophy
 
 This repo is built around:
 - Plain-language explanations
@@ -88,6 +89,6 @@ This repo is built around:
 
 ---
 
-## 🙌 Contributions Welcome
+## Contributions Welcome
 
 This is a living resource. If you find something missing, unclear, or awesome — feel free to open an issue or pull request!

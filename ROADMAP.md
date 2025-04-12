@@ -1,12 +1,12 @@
-# 🗺️ AWS Knowledge Base – Project Roadmap
+# AWS Knowledge Base – Project Roadmap
 
 This roadmap tracks the goals, structure, and ongoing development of this knowledge base.
 
 It is designed to:
 
-- 📚 Support real-world AWS architecture decisions
-- 🧠 Serve as a durable study companion for AWS certifications
-- 🚀 Evolve into a high-quality open reference, not just exam cram notes
+- Support real-world AWS architecture decisions
+- Serve as a durable study companion for AWS certifications
+- Evolve into a high-quality open reference, not just exam cram notes
 
 ---
 
@@ -28,16 +28,16 @@ It is designed to:
 
 ---
 
-## 🔧 In Progress
+## In Progress
 
-- 🔄 Reviewing all written `.md` entries for accuracy and clarity
-- 🔄 Updating topic entries after missed practice questions (see `TEST_REVIEW.md`)
-- 🔄 Planning diagrams, decision trees, or comparisons for complex topics (e.g., storage types, messaging systems)
-- 🔄 Exploring best ways to study while balancing real understanding and test performance
+- Reviewing all written `.md` entries for accuracy and clarity
+- Updating topic entries after missed practice questions (see `TEST_REVIEW.md`)
+- Planning diagrams, decision trees, or comparisons for complex topics (e.g., storage types, messaging systems)
+- Exploring best ways to study while balancing real understanding and test performance
 
 ---
 
-## 📌 Planned
+## Planned
 
 - [ ] Write missing service pages linked in the checklists
 - [ ] Build service-to-cert index (cross-reference: "where does S3 appear?")
@@ -49,7 +49,7 @@ It is designed to:
 
 ---
 
-## 💡 Long-Term Vision
+## Long-Term Vision
 
 This project will:
 
@@ -60,7 +60,7 @@ This project will:
 
 ---
 
-## 🧠 Contributions
+## Contributions
 
 This repo is currently personal, but may become open to contributors in the future.  
 If you’re reading this and want to help, feel free to open a discussion or submit a PR.

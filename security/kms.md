@@ -55,9 +55,9 @@ Use KMS when:
 
 ## Learn More
 
-- 📘 [KMS Documentation](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)  
-- 💵 [KMS Pricing](https://aws.amazon.com/kms/pricing/)  
-- 🎥 [KMS Explained (AWS Video)](https://www.youtube.com/watch?v=XrPZSq5YXqc)
+- [KMS Documentation](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)  
+- [KMS Pricing](https://aws.amazon.com/kms/pricing/)  
+- [KMS Explained (AWS Video)](https://www.youtube.com/watch?v=XrPZSq5YXqc)
 
 ---
 

@@ -1,13 +1,13 @@
-# ✅ AWS Developer – Associate (DVA-C02) Checklist
+# AWS Developer – Associate (DVA-C02) Checklist
 
 Track your coverage of Developer Associate topics.  
-✅ = Complete 🔲 = To do  
+Complete = ✅ To do = 🔲  
 Each topic includes a short description for fast reference.
 
 ---
 
 <details>
-<summary><strong>🖥️ Core Services</strong></summary>
+<summary><strong>Core Services</strong></summary>
 
 | Status | Topic | Description |
 |--------|-------|-------------|
@@ -22,7 +22,7 @@ Each topic includes a short description for fast reference.
 ---
 
 <details>
-<summary><strong>⚙️ Deployment & CI/CD</strong></summary>
+<summary><strong>Deployment & CI/CD</strong></summary>
 
 | Status | Topic | Description |
 |--------|-------|-------------|
@@ -37,7 +37,7 @@ Each topic includes a short description for fast reference.
 ---
 
 <details>
-<summary><strong>🔐 Security</strong></summary>
+<summary><strong>Security</strong></summary>
 
 | Status | Topic | Description |
 |--------|-------|-------------|
@@ -52,7 +52,7 @@ Each topic includes a short description for fast reference.
 ---
 
 <details>
-<summary><strong>🔄 App Integration</strong></summary>
+<summary><strong>App Integration</strong></summary>
 
 | Status | Topic | Description |
 |--------|-------|-------------|
@@ -67,7 +67,7 @@ Each topic includes a short description for fast reference.
 ---
 
 <details>
-<summary><strong>📊 Monitoring & Debugging</strong></summary>
+<summary><strong>Monitoring & Debugging</strong></summary>
 
 | Status | Topic | Description |
 |--------|-------|-------------|
@@ -81,7 +81,7 @@ Each topic includes a short description for fast reference.
 ---
 
 <details>
-<summary><strong>🧠 SDK, CLI & Credentials</strong></summary>
+<summary><strong>SDK, CLI & Credentials</strong></summary>
 
 | Status | Topic | Description |
 |--------|-------|-------------|
@@ -94,4 +94,4 @@ Each topic includes a short description for fast reference.
 
 ---
 
-📘 See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.
+See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.

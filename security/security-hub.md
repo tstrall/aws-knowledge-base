@@ -58,9 +58,9 @@ Use Security Hub when:
 
 ## Learn More
 
-- 📘 [Security Hub Documentation](https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html)  
-- 💵 [Security Hub Pricing](https://aws.amazon.com/security-hub/pricing/)  
-- 🎥 [Overview Video](https://www.youtube.com/watch?v=uejcLWX5xgA)
+- [Security Hub Documentation](https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html)  
+- [Security Hub Pricing](https://aws.amazon.com/security-hub/pricing/)  
+- [Overview Video](https://www.youtube.com/watch?v=uejcLWX5xgA)
 
 ---
 

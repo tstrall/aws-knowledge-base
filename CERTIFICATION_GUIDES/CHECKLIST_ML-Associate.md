@@ -1,13 +1,13 @@
-# ✅ AWS Machine Learning – Associate Checklist
+# AWS Machine Learning – Associate Checklist
 
 Track your ML – Associate exam coverage.  
-✅ = Complete 🔲 = To do  
+Complete = ✅ To do = 🔲  
 Each topic includes a short description so you can review quickly.
 
 ---
 
 <details>
-<summary><strong>📦 Data Ingestion & Preparation</strong></summary>
+<summary><strong>Data Ingestion & Preparation</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -23,7 +23,7 @@ Each topic includes a short description so you can review quickly.
 ---
 
 <details>
-<summary><strong>🧠 ML Services & Model Building</strong></summary>
+<summary><strong>ML Services & Model Building</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -41,7 +41,7 @@ Each topic includes a short description so you can review quickly.
 ---
 
 <details>
-<summary><strong>🚀 Model Deployment</strong></summary>
+<summary><strong>Model Deployment</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -55,7 +55,7 @@ Each topic includes a short description so you can review quickly.
 ---
 
 <details>
-<summary><strong>📈 Metrics & Evaluation</strong></summary>
+<summary><strong>Metrics & Evaluation</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -69,7 +69,7 @@ Each topic includes a short description so you can review quickly.
 ---
 
 <details>
-<summary><strong>🔐 Security & Cost</strong></summary>
+<summary><strong>Security & Cost</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -83,4 +83,4 @@ Each topic includes a short description so you can review quickly.
 
 ---
 
-📘 See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.
+See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.

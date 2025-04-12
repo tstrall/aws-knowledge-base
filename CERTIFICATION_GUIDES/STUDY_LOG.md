@@ -1,17 +1,17 @@
-# 📆 AWS Study Log
+# AWS Study Log
 
 A lightweight running log to track your daily or weekly AWS study efforts.
 
 This helps:
 
-- Reinforce consistency
-- Track what you’ve reviewed or learned
-- Spot patterns in your weak areas
-- Connect test results back to your notes
+- Reinforce consistency  
+- Track what you’ve reviewed or learned  
+- Spot patterns in your weak areas  
+- Connect test results back to your notes  
 
 ---
 
-## 📓 Example Log Format
+## Example Log Format
 
 ```markdown
 ## 2025-03-27 (Wed)
@@ -30,33 +30,20 @@ This helps:
 
 ---
 
-## ✅ Tips for Using This File
+## Tips for Using This File
 
-- Log once per day or per focused study session
-- Keep it short and factual — no pressure to write prose
-- Link to relevant `.md` files or checklist sections
-- Optionally include scoring stats or general reflections
-
----
-
-## ⏳ Optional Section: Weekly Goals
-
-```markdown
-### Week of 2025-03-31
-
-- [ ] Finish reading `CHECKLIST_SAP.md`
-- [ ] Take full-length SAA practice exam
-- [ ] Revisit EventBridge and DLQ handling
-- [ ] Diagram storage class lifecycle (S3)
-```
+- Log once per day or per focused study session  
+- Keep it short and factual — no pressure to write prose  
+- Link to relevant `.md` files or checklist sections  
+- Optionally include scoring stats or general reflections  
 
 ---
 
-## 🧠 Why It Helps
+## Why It Helps
 
-- Makes your effort visible
-- Reinforces a sense of progress
-- Helps you pick up right where you left off
-- Helps diagnose plateaus or distractions
+- Makes your effort visible  
+- Reinforces a sense of progress  
+- Helps you pick up right where you left off  
+- Helps diagnose plateaus or distractions  
 
 You can commit this file to your repo, or keep a local/private version if you prefer.

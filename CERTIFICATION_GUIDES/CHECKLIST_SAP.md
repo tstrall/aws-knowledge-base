@@ -1,13 +1,13 @@
-# ✅ AWS Certified Solutions Architect – Professional (SAP-C02) Checklist
+# AWS Certified Solutions Architect – Professional (SAP-C02) Checklist
 
 Track your coverage of advanced architectural topics for the SAP exam.  
-✅ = Complete 🔲 = To do  
+Complete = ✅ To do = 🔲  
 Includes short descriptions so you can review without clicking into every link.
 
 ---
 
 <details>
-<summary><strong>🛡️ Multi-Account & Governance</strong></summary>
+<summary><strong>Multi-Account & Governance</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -21,7 +21,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>🔗 Advanced Networking</strong></summary>
+<summary><strong>Advanced Networking</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -36,7 +36,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>🧩 Disaster Recovery & Multi-Region</strong></summary>
+<summary><strong>Disaster Recovery & Multi-Region</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -51,7 +51,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>⚙️ Deployment & Automation at Scale</strong></summary>
+<summary><strong>Deployment & Automation at Scale</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -66,7 +66,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>💸 Cost & Billing Strategy</strong></summary>
+<summary><strong>Cost & Billing Strategy</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -79,7 +79,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>🚚 Data Transfer & Hybrid</strong></summary>
+<summary><strong>Data Transfer & Hybrid</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -93,7 +93,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>📊 Compliance & Monitoring</strong></summary>
+<summary><strong>Compliance & Monitoring</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -110,7 +110,7 @@ Includes short descriptions so you can review without clicking into every link.
 ---
 
 <details>
-<summary><strong>🧠 Design Tradeoffs & Scenarios</strong></summary>
+<summary><strong>Design Tradeoffs & Scenarios</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -122,4 +122,4 @@ Includes short descriptions so you can review without clicking into every link.
 
 ---
 
-📘 See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.
+See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.  

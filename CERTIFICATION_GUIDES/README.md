@@ -5,7 +5,7 @@ Each checklist is GitHub-friendly with autolinks to your knowledge base and coll
 
 ---
 
-## 📋 Certification Checklists
+## Certification Checklists
 
 | Certification | File | Focus |
 |---------------|------|-------|
@@ -17,7 +17,7 @@ Each checklist is GitHub-friendly with autolinks to your knowledge base and coll
 
 ---
 
-## 📁 How to Use This Folder
+## How to Use This Folder
 
 Each checklist uses the following conventions:
 
@@ -29,16 +29,16 @@ Each checklist uses the following conventions:
 
 ---
 
-## 🛠 Want to Extend This?
+## Want to Extend This?
 
 You can easily add:
 
-- ✅ A certification-specific index (e.g., `SAP.md`) with rationale and study order
-- 🧭 A `TOPICS_BY_SERVICE.md` index if you want to group everything by AWS service instead of by exam
-- 📊 A visual GitHub Project board to track checklist status
+- A certification-specific index (e.g., `SAP.md`) with rationale and study order
+- A `TOPICS_BY_SERVICE.md` index if you want to group everything by AWS service instead of by exam
+- A visual GitHub Project board to track checklist status
 
 ---
 
-## 📬 Contributions
+## Contributions
 
 This repo is maintained as a personal knowledge base and learning companion. Contributions, suggestions, and topic requests are welcome!

@@ -54,9 +54,9 @@ It’s especially useful when integrated with AWS Organizations and Security Hub
 
 ## Learn More
 
-- 📘 [GuardDuty Documentation](https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html)  
-- 💵 [GuardDuty Pricing](https://aws.amazon.com/guardduty/pricing/)  
-- 📺 [AWS re:Invent GuardDuty Demo](https://www.youtube.com/watch?v=Z0KkZnW9C04)
+- [GuardDuty Documentation](https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html)  
+- [GuardDuty Pricing](https://aws.amazon.com/guardduty/pricing/)  
+- [AWS re:Invent GuardDuty Demo](https://www.youtube.com/watch?v=Z0KkZnW9C04)
 
 ---
 

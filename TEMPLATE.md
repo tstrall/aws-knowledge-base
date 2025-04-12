@@ -49,9 +49,9 @@ Highlight common scenarios, such as:
 
 ## Learn More
 
-- 📘 [AWS Docs](https://docs.aws.amazon.com/)
-- 💵 [Pricing](https://aws.amazon.com/)
-- 🎥 [AWS Video (YouTube or re:Invent)](https://www.youtube.com/)
+- [AWS Docs](https://docs.aws.amazon.com/)
+- [Pricing](https://aws.amazon.com/)
+- [AWS Video (YouTube or re:Invent)](https://www.youtube.com/)
 
 ---
 

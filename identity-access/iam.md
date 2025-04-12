@@ -63,9 +63,9 @@ Use it to:
 
 ## Learn More
 
-- 📘 [IAM Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)  
-- 💵 IAM is free — no additional cost  
-- 🎥 [AWS IAM Explained](https://www.youtube.com/watch?v=jkCqpNQSSog)
+- [IAM Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)  
+- IAM is free — no additional cost  
+- [AWS IAM Explained](https://www.youtube.com/watch?v=jkCqpNQSSog)
 
 ---
 

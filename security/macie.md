@@ -51,9 +51,9 @@ Use Macie when:
 
 ## Learn More
 
-- 📘 [Macie Documentation](https://docs.aws.amazon.com/macie/latest/user/what-is-macie.html)  
-- 💵 [Macie Pricing](https://aws.amazon.com/macie/pricing/)  
-- 📺 [AWS Macie Overview Video](https://www.youtube.com/watch?v=nk3yRfG7Rhk)
+- [Macie Documentation](https://docs.aws.amazon.com/macie/latest/user/what-is-macie.html)  
+- [Macie Pricing](https://aws.amazon.com/macie/pricing/)  
+- [AWS Macie Overview Video](https://www.youtube.com/watch?v=nk3yRfG7Rhk)
 
 ---
 

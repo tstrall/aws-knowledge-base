@@ -57,9 +57,9 @@ Use AWS WAF when:
 
 ## Learn More
 
-- 📘 [WAF Documentation](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html)  
-- 💵 [WAF Pricing](https://aws.amazon.com/waf/pricing/)  
-- 🎥 [Intro to WAF Video](https://www.youtube.com/watch?v=bKM3c_BUBuE)
+- [WAF Documentation](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html)  
+- [WAF Pricing](https://aws.amazon.com/waf/pricing/)  
+- [Intro to WAF Video](https://www.youtube.com/watch?v=bKM3c_BUBuE)
 
 ---
 

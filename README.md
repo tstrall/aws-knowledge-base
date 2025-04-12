@@ -14,9 +14,9 @@ This project is built for:
 
 ## Study Strategy & Progress
 
-- 📘 [Study Strategy](CERTIFICATION_GUIDES/STUDY_STRATEGY.md): How to learn and test at the same time
-- 🧪 [Test Review Log](CERTIFICATION_GUIDES/TEST_REVIEW.md): Missed questions and follow-ups
-- 📆 [Study Log](CERTIFICATION_GUIDES/STUDY_LOG.md): Daily/weekly journal to track learning
+- [Study Strategy](CERTIFICATION_GUIDES/STUDY_STRATEGY.md): How to learn and test at the same time
+- [Test Review Log](CERTIFICATION_GUIDES/TEST_REVIEW.md): Missed questions and follow-ups
+- [Study Log](CERTIFICATION_GUIDES/STUDY_LOG.md): Daily/weekly journal to track learning
 
 ---
 

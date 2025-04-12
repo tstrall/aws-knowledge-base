@@ -1,13 +1,13 @@
-# ✅ AWS Machine Learning – Specialty (MLS-C01) Checklist
+# AWS Machine Learning – Specialty (MLS-C01) Checklist
 
 Track your MLS-C01 exam coverage.  
-✅ = Complete 🔲 = To do  
+Complete = ✅ To do = 🔲  
 Descriptions included for quick scanning without clicking through.
 
 ---
 
 <details>
-<summary><strong>📦 Data Engineering & Feature Pipelines</strong></summary>
+<summary><strong>Data Engineering & Feature Pipelines</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -22,7 +22,7 @@ Descriptions included for quick scanning without clicking through.
 ---
 
 <details>
-<summary><strong>🧠 Advanced Model Building</strong></summary>
+<summary><strong>Advanced Model Building</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -38,7 +38,7 @@ Descriptions included for quick scanning without clicking through.
 ---
 
 <details>
-<summary><strong>📊 Monitoring, Explainability & MLOps</strong></summary>
+<summary><strong>Monitoring, Explainability & MLOps</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -54,7 +54,7 @@ Descriptions included for quick scanning without clicking through.
 ---
 
 <details>
-<summary><strong>📈 Model Evaluation & Optimization</strong></summary>
+<summary><strong>Model Evaluation & Optimization</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -69,7 +69,7 @@ Descriptions included for quick scanning without clicking through.
 ---
 
 <details>
-<summary><strong>🔐 Security, Compliance & Isolation</strong></summary>
+<summary><strong>Security, Compliance & Isolation</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -84,7 +84,7 @@ Descriptions included for quick scanning without clicking through.
 ---
 
 <details>
-<summary><strong>💸 Cost Management</strong></summary>
+<summary><strong>Cost Management</strong></summary>
 
 | Status | Topic | Description |
 |--------|--------|-------------|
@@ -97,4 +97,4 @@ Descriptions included for quick scanning without clicking through.
 
 ---
 
-📘 See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.
+See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.

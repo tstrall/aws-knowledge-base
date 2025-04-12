@@ -58,9 +58,9 @@ Use your knowledge of VPCs when:
 
 ## Learn More
 
-- 📘 [VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)  
-- 🎥 [VPC Overview Video](https://www.youtube.com/watch?v=9Y9KVcYm2z0)  
-- 💵 [VPC Pricing](https://aws.amazon.com/vpc/pricing/) *(mostly free unless using NAT Gateway or PrivateLink)*
+- [VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)  
+- [VPC Overview Video](https://www.youtube.com/watch?v=9Y9KVcYm2z0)  
+- [VPC Pricing](https://aws.amazon.com/vpc/pricing/) *(mostly free unless using NAT Gateway or PrivateLink)*
 
 ---
 

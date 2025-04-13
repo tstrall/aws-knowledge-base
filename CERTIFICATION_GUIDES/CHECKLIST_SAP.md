@@ -57,8 +57,8 @@ Includes short descriptions so you can review without clicking into every link.
 |--------|--------|-------------|
 | 🔲 | [CloudFormation StackSets](../infra/stacksets.md) | Deploy resources across accounts and regions |
 | 🔲 | [AWS CDK](../infra/cdk.md) | Define cloud infrastructure in code using Python, TypeScript, etc. |
-| 🔲 | [CI/CD with CodePipeline](../infra/pipelines.md) | Automate software delivery from source to deployment |
-| 🔲 | [Canary / Blue-Green Deployments](../infra/canary-bluegreen.md) | Gradual rollout or swap routing for safe deployments |
+| ✅ | [CI/CD with CodePipeline](../infra/pipelines.md) | Automate software delivery from source to deployment |
+| ✅ | [Canary / Blue-Green Deployments](../infra/canary-bluegreen.md) | Gradual rollout or swap routing for safe deployments |
 | 🔲 | [Centralized CloudWatch/CloudTrail](../monitoring/cloudwatch-central.md) | Unified monitoring and audit logging in multi-account setups |
 
 </details>
@@ -122,4 +122,4 @@ Includes short descriptions so you can review without clicking into every link.
 
 ---
 
-See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.
+📘 See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.

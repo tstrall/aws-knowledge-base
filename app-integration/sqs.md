@@ -9,25 +9,25 @@
 
 ## What is it?
 
-Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables decoupling and scaling of microservices, distributed systems, and serverless applications. It allows components to communicate asynchronously by sending, storing, and receiving messages at any volume without message loss. citeturn0search0
+Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables decoupling and scaling of microservices, distributed systems, and serverless applications. It allows components to communicate asynchronously by sending, storing, and receiving messages at any volume without message loss.
 
-SQS offers two types of queues:
+SQS offers two types of queues:
 
-- **Standard Queues**: Provide maximum throughput, best-effort ordering, and at-least-once delivery.
-- **FIFO Queues**: Guarantee that messages are processed exactly once, in the exact order that they are sent. citeturn0search9
+- **Standard Queues**: Provide maximum throughput, best-effort ordering, and at-least-once delivery.
+- **FIFO Queues**: Guarantee that messages are processed exactly once, in the exact order that they are sent.
 
 ---
 
 ## Why should I care?
 
-SQS is integral to building resilient and scalable applications on AWS:
+SQS is integral to building resilient and scalable applications on AWS:
 
-- **Decouples components**: Allows independent scaling and failure isolation.
-- **Improves reliability**: Ensures message delivery even when components are temporarily unavailable.
-- **Supports serverless architectures**: Easily integrates with AWS Lambda for event-driven processing. citeturn0search2
-- **Enhances scalability**: Automatically handles increasing loads without manual intervention.
+- **Decouples components**: Allows independent scaling and failure isolation.
+- **Improves reliability**: Ensures message delivery even when components are temporarily unavailable.
+- **Supports serverless architectures**: Easily integrates with AWS Lambda for event-driven processing.
+- **Enhances scalability**: Automatically handles increasing loads without manual intervention.
 
-Understanding SQS is essential for designing robust, scalable, and decoupled systems, and it's a frequently tested service in AWS certification exams.
+Understanding SQS is essential for designing robust, scalable, and decoupled systems, and it's a frequently tested service in AWS certification exams.
 
 ---
 
@@ -35,46 +35,46 @@ Understanding SQS is essential for designing robust, scalable, and decoupled sys
 
 Use SQS when:
 
-- You need to decouple microservices or distributed systems.
-- Implementing asynchronous processing workflows.
-- Handling tasks that require reliable message delivery.
-- Building serverless applications that respond to events.
-- Managing workloads that experience variable or unpredictable traffic.
+- You need to decouple microservices or distributed systems.
+- Implementing asynchronous processing workflows.
+- Handling tasks that require reliable message delivery.
+- Building serverless applications that respond to events.
+- Managing workloads that experience variable or unpredictable traffic.
 
 ---
 
 ## Key features
 
-- **Fully managed**: No need to provision or maintain servers.
-- **Scalable**: Automatically scales to handle any volume of messages.
-- **Secure**: Supports encryption at rest and in transit, along with fine-grained access control via AWS Identity and Access Management (IAM).
-- **Durable**: Stores messages redundantly across multiple Availability Zones.
-- **Flexible**: Supports both standard and FIFO queues to meet different application requirements.
+- **Fully managed**: No need to provision or maintain servers.
+- **Scalable**: Automatically scales to handle any volume of messages.
+- **Secure**: Supports encryption at rest and in transit, along with fine-grained access control via AWS Identity and Access Management (IAM).
+- **Durable**: Stores messages redundantly across multiple Availability Zones.
+- **Flexible**: Supports both standard and FIFO queues to meet different application requirements.
 
 ---
 
 ## Common use cases
 
-- **Order processing systems**: Ensuring orders are processed in the correct sequence.
-- **Background job processing**: Offloading time-consuming tasks from the main application flow.
-- **Log aggregation**: Collecting logs from multiple sources for centralized processing.
-- **Event-driven architectures**: Triggering actions in response to events in your application.
-- **Buffering and batching**: Managing bursts of traffic by queuing requests for later processing.
+- **Order processing systems**: Ensuring orders are processed in the correct sequence.
+- **Background job processing**: Offloading time-consuming tasks from the main application flow.
+- **Log aggregation**: Collecting logs from multiple sources for centralized processing.
+- **Event-driven architectures**: Triggering actions in response to events in your application.
+- **Buffering and batching**: Managing bursts of traffic by queuing requests for later processing.
 
 ---
 
 ## Integrations
 
-- **AWS Lambda**: Automatically process messages as they arrive in the queue. citeturn0search2
-- **Amazon SNS**: Combine with Simple Notification Service for pub/sub messaging patterns.
-- **Amazon EC2**: Use with EC2 instances for scalable message processing.
-- **AWS Step Functions**: Coordinate multiple AWS services into serverless workflows.
+- **AWS Lambda**: Automatically process messages as they arrive in the queue.
+- **Amazon SNS**: Combine with Simple Notification Service for pub/sub messaging patterns.
+- **Amazon EC2**: Use with EC2 instances for scalable message processing.
+- **AWS Step Functions**: Coordinate multiple AWS services into serverless workflows.
 
 ---
 
 ## Pricing
 
-Amazon SQS offers a free tier with 1 million requests per month. Beyond the free tier, pricing is based on the number of requests and data transfer. citeturn0search0
+Amazon SQS offers a free tier with 1 million requests per month. Beyond the free tier, pricing is based on the number of requests and data transfer.
 
 ---
 

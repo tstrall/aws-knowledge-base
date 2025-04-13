@@ -98,8 +98,8 @@ Includes short descriptions so you can review without clicking into every link.
 | Status | Topic | Description |
 |--------|--------|-------------|
 | 🔲 | [AWS Config (multi-account)](../monitoring/aws-config.md) | Track resource configurations and changes across accounts |
-| 🔲 | [CloudTrail Aggregation](../monitoring/cloudtrail.md) | Centralize API audit logs for compliance auditing |
-| 🔲 | [Security Hub Aggregation](../security/security-hub.md) | View findings across accounts from GuardDuty, Macie, etc. |
+| ✅ | [CloudTrail Aggregation](../monitoring/cloudtrail.md) | Centralize API audit logs for compliance auditing |
+| ✅ | [Security Hub Aggregation](../security/security-hub.md) | View findings across accounts from GuardDuty, Macie, etc. |
 | ✅ | [KMS](../security/kms.md) | Encryption key management for AWS services |
 | ✅ | [Macie](../security/macie.md) | S3 data classification and sensitive data detection |
 | ✅ | [GuardDuty](../security/guardduty.md) | Monitors accounts for threats and unusual behavior |
@@ -116,10 +116,10 @@ Includes short descriptions so you can review without clicking into every link.
 |--------|--------|-------------|
 | 🔲 | [Availability vs Cost Tradeoffs](../concepts/design-tradeoffs.md) | Balance redundancy, scaling, and price per use case |
 | 🔲 | [Migration Phases & Rollback](../concepts/migration-planning.md) | Plan safe migrations with rollback and verification |
-| 🔲 | [Choosing Storage/DB per Use Case](../concepts/choose-storage.md) | Compare S3, EFS, EBS, Aurora, RDS, DynamoDB, etc. |
+| ✅ | [Choosing Storage/DB per Use Case](../concepts/choose-storage.md) | Compare S3, EFS, EBS, Aurora, RDS, DynamoDB, etc. |
 
 </details>
 
 ---
 
-See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.  
+See [Study Strategy](./STUDY_STRATEGY.md) to learn how this checklist fits into your exam prep process.

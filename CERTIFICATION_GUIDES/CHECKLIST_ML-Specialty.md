@@ -76,7 +76,7 @@ Descriptions included for quick scanning without clicking through.
 | ✅ | [KMS Encryption](../security/kms.md) | Protect model artifacts and data in SageMaker |
 | 🔲 | [VPC-Only Access to SageMaker](../ml/sagemaker-vpc.md) | Isolate training and endpoints in private networks |
 | 🔲 | [IAM Role Permissions by Pipeline Stage](../ml/sagemaker-iam.md) | Secure step-by-step access in pipelines |
-| 🔲 | [Audit with CloudTrail](../monitoring/cloudtrail.md) | Track and analyze access to ML resources |
+| ✅ | [Audit with CloudTrail](../monitoring/cloudtrail.md) | Track and analyze access to ML resources |
 | 🔲 | [Cross-Account Access Controls](../ml/cross-account-ml.md) | Secure access to models across environments |
 
 </details>

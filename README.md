@@ -4,10 +4,9 @@
 
 A curated, structured, and growing knowledge base of AWS services and architectural principles — designed to support learning, real-world architecture, and certification prep.
 
-
 This project is built for:
 - Deepening your AWS understanding across core and advanced services
-- Preparing for AWS certification exams (SAA, SAP, Dev, ML)
+- Preparing for AWS certification exams (SAA, SAP, DEV, ML)
 - Supporting real-world cloud engineering and design decisions
 
 ---
@@ -27,10 +26,11 @@ aws-knowledge-base/
 ├── app-integration/
 ├── compute/
 ├── concepts/             # Architecture, tradeoffs, patterns
-├── databases/
+├── cost-optimization/
 ├── data-analytics/
-├── identity-access
-├── infra/                # IaC, DevOps, CLI
+├── databases/
+├── identity-access/
+├── infra/                # IaC, DevOps, CLI, SDK
 ├── ml/                   # ML-specific content
 ├── monitoring/
 ├── networking/
@@ -51,13 +51,14 @@ aws-knowledge-base/
 
 Each `.md` file covers:
 
-- What the service does
-- When and why to use it
-- Key features, limitations, and integration points
-- Links to official AWS docs
-- Tags showing which certifications the service relates to
+- ✅ What the service does
+- ✅ When and why to use it
+- ✅ Key features, limitations, and integration points
+- ✅ Links to official AWS docs
+- ✅ Tags showing which certifications the service relates to
 
-See the full topic list via:
+Checklists for certification coverage:
+
 - [CHECKLIST_SAA.md](CERTIFICATION_GUIDES/CHECKLIST_SAA.md)
 - [CHECKLIST_SAP.md](CERTIFICATION_GUIDES/CHECKLIST_SAP.md)
 - [CHECKLIST_DEV.md](CERTIFICATION_GUIDES/CHECKLIST_DEV.md)
@@ -68,7 +69,7 @@ See the full topic list via:
 
 ## Certification Study Guides
 
-These guides describe what each exam expects and how this repo supports your prep:
+These describe what each exam expects and how this repo supports your prep:
 
 - [SAA.md](CERTIFICATION_GUIDES/SAA.md)
 - [SAP.md](CERTIFICATION_GUIDES/SAP.md)
@@ -81,11 +82,12 @@ These guides describe what each exam expects and how this repo supports your pre
 ## Design Philosophy
 
 This repo is built around:
-- Plain-language explanations
-- Real-world architecture insight
-- Minimal fluff, maximum clarity
-- Easy extension as new AWS features are released
-- Support for multi-certification preparation without redundancy
+
+- Plain-language explanations  
+- Real-world architecture insight  
+- Minimal fluff, maximum clarity  
+- Easy extension as new AWS features are released  
+- Multi-certification prep with minimal redundancy  
 
 ---
 

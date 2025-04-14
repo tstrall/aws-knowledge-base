@@ -48,3 +48,5 @@
 - [Data Architecture Patterns](misc/data-arch.md)
 - [Data Governance](misc/data-governance.md)
 
+## AI & Language Models
+- [LLMs (Large Language Models)](misc/llm.md)

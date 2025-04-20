@@ -1,4 +1,4 @@
-Here’s a Markdown page for **Amazon SNS (Simple Notification Service)** that follows the same style and structure you used for [`s3.md`](https://github.com/tstrall/aws-knowledge-base/blob/main/storage/s3.md) and your updated `sqs.md`:
+Here’s a Markdown page for **Amazon SNS (Simple Notification Service)** that follows the same style and structure you used for [`s3.md`](https://github.com/usekarma/aws-knowledge-base/blob/main/storage/s3.md) and your updated `sqs.md`:
 
 ---
 
